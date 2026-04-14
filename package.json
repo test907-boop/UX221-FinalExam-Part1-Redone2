@@ -6,6 +6,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "wp-pwa build"
+    "build": "wp-pwa build https://github.com/test907-boop/UX221-FinalExam-Part1-Redone2"
   }
 }
